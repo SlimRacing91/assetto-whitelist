@@ -1,0 +1,2 @@
+# assetto-whitelist
+servers-whitelist
